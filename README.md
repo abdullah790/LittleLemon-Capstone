@@ -24,8 +24,8 @@ Ensure you have the following installed before proceeding:
 
 - Python 3.8+
 - Django 4.2 LTS
-- Database System like MySQL, PostgreSQL, MongoDB, or SQLite might be required.
-- Package Managers like Tools like npm (Node Package Manager), pip (Python), or yarn (alternative to npm) might be needed for installing project-specific dependencies.
+- Database System like MySQL, PostgreSQL, MongoDB, or SQLite will be required.
+- Package Managers like Tools like npm (Node Package Manager), pip (Python), or yarn (alternative to npm) will be needed for installing project-specific dependencies.
 - Version Control System: Git may be necessary for version control, allowing users to clone, contribute, or manage source code.
 - Integrated Development Environment (IDE): Visual Studio Code.
 - Authentication and Authorization Services: OAuth.
